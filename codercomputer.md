@@ -75,3 +75,5 @@ Like the acronym for PWD suggests, the printing working directory essentially "p
 ##### Paths- A way in which to obtain "a file or diretory" within the terminal (via "https://ryanstutorials.net/linuxtutorial/navigation.php"). 
 
 According to this article, there are two types of paths, the absolute path, and the relative path. Both paths purposefully locate a specfic file. However the differerence between the two is the actual location. The absolute path locates a file witihin what is known as the root directory, or, the main area where all the subfiles are located. The relative path is the location to which the user is in at presently.
+
+[<== Back](README.md)
