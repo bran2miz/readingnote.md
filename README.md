@@ -6,6 +6,7 @@
 #### [2. The Coder's Computer](codercomputer.md)
 #### [3. Revisions and the Cloud](revisionsandcloud.md)
 #### [4. Structure web pages with HTML](html.md)
+#### [5. Design web pages with CSS](cssreadingnote.md)
 
 ## Git changes
 
