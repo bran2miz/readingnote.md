@@ -7,6 +7,7 @@
 #### [3. Revisions and the Cloud](revisionsandcloud.md)
 #### [4. Structure web pages with HTML](html.md)
 #### [5. Design web pages with CSS](cssreadingnote.md)
+#### [6. Dynamic web pages with Javascript](javascript.md)
 
 ## Git changes
 
