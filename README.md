@@ -9,6 +9,7 @@
 #### [5. Design web pages with CSS](cssreadingnote.md)
 #### [6. Dynamic web pages with Javascript](javascript.md)
 #### [7. Programming with JavaScript](javascriptnote.md)
+#### [Operations and Loops](operatornloop.md)
 
 ## Git changes
 
